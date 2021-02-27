@@ -4,3 +4,12 @@ body{
 div{
     display: flex;
 }
+.first{
+background-color: brown;
+}
+.second{
+    background-color: cadetblue;
+}
+.third{
+    background-color: cyan;
+}
